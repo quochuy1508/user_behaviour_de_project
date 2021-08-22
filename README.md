@@ -50,7 +50,7 @@ To set up the infrastructure and base tables we have a script called `setup_infr
 
 ```bash
 git clone https://github.com/quochuy1508/user_behaviour_de_project.git
-cd beginner_de_project
+cd user_behaviour_de_project
 ./setup_infra.sh {your-bucket-s3-aws-name}
 ```
 log on to [www.localhost:8080](http://localhost:8080) to see the Airflow UI. The username and password are both `airflow`.
