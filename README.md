@@ -35,7 +35,7 @@ We will be using Airflow to orchestrate
 3. Extracting user purchase data from an OLTP database and loading it into the data warehouse.
 4. Joining the classified movie review data and user purchase data to get `user behavior metric` data.
 
-![Data pipeline design](assets/images/de_proj_design.png)
+![Data pipeline design](./assets/de_proj_design.png)
 
 ## 4. Setup
 
